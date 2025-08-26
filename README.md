@@ -16,7 +16,7 @@ It features a **Neon Glow Effect** , Modern Fonts and a Stylish Cursor Animation
 - **HTML5** – Structure and Layout.
 - **CSS3** – Styling, Responsiveness and Themes.
 - **JavaScript (ES6)** – Interactive Glowing Cursor.
-- **Google Fonts** – Clean and Modern typography.
+- **Google Fonts** – Clean and Modern Typography.
 
 ## 📸Screenshots
 
