@@ -1,6 +1,6 @@
 # **Neon Cursor**
 This Project is a **Glowing Neon-themed Intro Page** Showcasing my Name and Profession with an Animated Design.  
-It features a **Neon Glow Effect** , Modern Fonts and a Stylish Cursor Animation to make the Portfolio Visually Attractive.  
+It's features a **Neon Glow Effect** , Modern Fonts and a Stylish Cursor Animation to make the Portfolio Visually Attractive.  
 
   
 ## ✨ Features
